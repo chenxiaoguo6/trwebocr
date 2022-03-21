@@ -8,7 +8,7 @@
       </a-layout-content>
 
       <a-layout-footer class="footer" style="background-color:transparent;padding:0.2rem">
-
+      <a href=""></a>
       </a-layout-footer>
     </a-layout>
   </div>
